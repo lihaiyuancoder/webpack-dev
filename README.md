@@ -1,0 +1,1 @@
+这是webpack基本配置用法，和webpack打包，webpack的内容很多，以后有时间持续跟新。
